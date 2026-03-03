@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Blue Denim Shirt",
+    "category": "Apparel",
+    "stock": 12,
+    "price": 129.99,
+    "image": "https://media.istockphoto.com/id/1319696185/photo/closeup-of-blue-denim-jacket-isolated-on-white-background-with-clipping-path.jpg?s=2048x2048&w=is&k=20&c=R2Zl6S2SKZH4AIyjnm7tz_jq465eQUpTqXJBTmZDohs="
+  },
+  {
+    "id": 2,
+    "name": "Leather Wallet",
+    "category": "Accessories",
+    "stock": 4,
+    "price": 79.5,
+    "image": "https://images.unsplash.com/photo-1620109176813-e91290f6c795?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3Dw=400&h=400&fit=crop"
+  },
+  {
+    "id": 3,
+    "name": "Running Shoes",
+    "category": "Footwear",
+    "stock": 7,
+    "price": 249.0,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 4,
+    "name": "Sunglasses",
+    "category": "Accessories",
+    "stock": 2,
+    "price": 99.99,
+    "image": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 5,
+    "name": "White T-Shirt",
+    "category": "Apparel",
+    "stock": 18,
+    "price": 49.99,
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 6,
+    "name": "Casual Jeans",
+    "category": "Apparel",
+    "stock": 8,
+    "price": 159.99,
+    "image": "https://media.istockphoto.com/id/1023017016/photo/pile-of-blue-denim-isolated-on-white-background.jpg?s=2048x2048&w=is&k=20&c=lIC-usVVAvnSOLrwep6dc2HlCLWu9v2olSfGAwk5L7s=w=400&h=400&fit=crop"
+  },
+  {
+    "id": 7,
+    "name": "Sport Watch",
+    "category": "Accessories",
+    "stock": 3,
+    "price": 349.99,
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 8,
+    "name": "Sneakers",
+    "category": "Footwear",
+    "stock": 6,
+    "price": 199.99,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 9,
+    "name": "Polo Shirt",
+    "category": "Apparel",
+    "stock": 14,
+    "price": 89.99,
+    "image": "https://images.unsplash.com/photo-1618886867438-6b0205fbd5aa?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 10,
+    "name": "Dress Shoes",
+    "category": "Footwear",
+    "stock": 5,
+    "price": 299.99,
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 11,
+    "name": "Backpack",
+    "category": "Accessories",
+    "stock": 1,
+    "price": 179.99,
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 12,
+    "name": "Belt",
+    "category": "Accessories",
+    "stock": 9,
+    "price": 44.99,
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400&h=400&fit=crop"
+  }
+]

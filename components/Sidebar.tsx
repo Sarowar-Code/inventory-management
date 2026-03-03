@@ -51,7 +51,7 @@ export function Sidebar() {
           <div className="h-9 w-9 bg-deepblue-600 rounded-full flex items-center justify-center font-bold text-white text-sm flex-shrink-0">
             AD
           </div>
-          <div className="flex-1 min-w-0 hidden md:block">
+          <div className="flex-1 min-w-0 ">
             <p className="text-sm font-semibold text-white truncate">Admin User</p>
             <p className="text-xs text-slate-400 truncate">Cashier</p>
           </div>

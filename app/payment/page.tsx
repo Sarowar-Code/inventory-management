@@ -2,17 +2,9 @@
 import { ArrowLeft, Check, CreditCard } from 'lucide-react'
 import Link from 'next/link'
 import { useRouter, useSearchParams } from 'next/navigation'
-import { useState, Suspense } from 'react'
+import { Suspense, useState } from 'react'
 
 function PaymentContent() {
-  const searchParams = useSearchParams()
-  const router = useRouter()nt'
-import { ArrowLeft, Check, CreditCard } from 'lucide-react'
-import Link from 'next/link'
-import { useRouter, useSearchParams } from 'next/navigation'
-import { useState } from 'react'
-
-export default function PaymentPage() {
   const searchParams = useSearchParams()
   const router = useRouter()
 

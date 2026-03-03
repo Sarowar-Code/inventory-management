@@ -2,6 +2,14 @@
 import { ArrowLeft, Check, CreditCard } from 'lucide-react'
 import Link from 'next/link'
 import { useRouter, useSearchParams } from 'next/navigation'
+import { useState, Suspense } from 'react'
+
+function PaymentContent() {
+  const searchParams = useSearchParams()
+  const router = useRouter()nt'
+import { ArrowLeft, Check, CreditCard } from 'lucide-react'
+import Link from 'next/link'
+import { useRouter, useSearchParams } from 'next/navigation'
 import { useState } from 'react'
 
 export default function PaymentPage() {
@@ -249,5 +257,17 @@ export default function PaymentPage() {
         </div>
       </div>
     </div>
+  )
+}
+
+export default function PaymentPage() {
+  return (
+    <Suspense fallback={
+      <div className="min-h-screen bg-slate-950 flex items-center justify-center">
+        <div className="text-slate-300">Loading payment page...</div>
+      </div>
+    }>
+      <PaymentContent />
+    </Suspense>
   )
 }

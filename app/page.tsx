@@ -11,7 +11,7 @@ export default function DashboardPage() {
   return (
     <div className="p-3 sm:p-4 md:p-6 space-y-4 md:space-y-6 h-full overflow-auto">
       <div>
-        <h1 className="text-xl sm:text-2xl md:text-3xl font-bold text-slate-100 mb-1 md:mb-2">Dashboard</h1>
+        <h1 className="text-xl sm:text-2xl md:text-3xl font-bold text-slate-900 mb-1 md:mb-2">Dashboard</h1>
         <p className="text-xs sm:text-sm md:text-base text-slate-400">Welcome to your POS and Inventory Management System</p>
       </div>
 

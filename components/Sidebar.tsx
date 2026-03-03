@@ -11,7 +11,7 @@ export function Sidebar() {
   const navItems = [
     { href: '/', label: 'Dashboard', icon: Home },
     { href: '/inventory', label: 'Inventory', icon: Box },
-    { href: '/pos', label: 'POS', icon: ShoppingCart },
+    { href: '/pos', label: 'POS & Sales', icon: ShoppingCart },
     { href: '/reports', label: 'Reports', icon: FileText },
     { href: '/settings', label: 'Settings', icon: Settings }
   ]
